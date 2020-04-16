@@ -3,3 +3,6 @@
   git remote add origin https://github.com/weilei888/webApp.git 
   git push -u origin master
 3.后续项目更新，直接点击GIT，右上角的三个点推送按钮即可。
+4.删除远程仓库关联，切换到所在目录
+  git remote rm origin
+  git remote add origin https://github.com/weilei888/webApp.git
